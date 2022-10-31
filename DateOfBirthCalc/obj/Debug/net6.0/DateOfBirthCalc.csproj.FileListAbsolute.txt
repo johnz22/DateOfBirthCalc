@@ -1,0 +1,15 @@
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\bin\Debug\net6.0\DateOfBirthCalc.exe
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\bin\Debug\net6.0\DateOfBirthCalc.deps.json
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\bin\Debug\net6.0\DateOfBirthCalc.runtimeconfig.json
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\bin\Debug\net6.0\DateOfBirthCalc.dll
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\bin\Debug\net6.0\DateOfBirthCalc.pdb
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.csproj.AssemblyReference.cache
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.AssemblyInfo.cs
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.dll
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\refint\DateOfBirthCalc.dll
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.pdb
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\DateOfBirthCalc.genruntimeconfig.cache
+C:\Users\John\source\repos\DateOfBirthCalc\DateOfBirthCalc\obj\Debug\net6.0\ref\DateOfBirthCalc.dll
